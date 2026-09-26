@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/faostat",
   "title": "Faostat",
   "description": "FAOSTAT MCP — the UN Food and Agriculture Organization's statistics service.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/faostat",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-faostat",

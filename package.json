@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-faostat",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "FAOSTAT MCP — the UN Food and Agriculture Organization's statistics service.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-846926e78241a2188f49bb9553e8727003dc2da26dcbcdddb6be2a9250e6753c",
-    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
+    "sourceHash": "v1-8bb57be63b94debe3934604de7811c36072e9f5fc9bd6705a1f6e499b3e778f1",
+    "sourceCommit": "712a5e0171ea24483214329d0cd7efdfd9b80352"
   }
 }
